@@ -16,7 +16,7 @@ imageio==2.16.1
     # via scikit-image
 kiwisolver==1.4.2
     # via matplotlib
-lapy @ git+https://github.com/Deep-MI/LaPy.git
+lapy==1.1.0
     # via -r requirements.in
 matplotlib==3.5.1
     # via -r requirements.in
